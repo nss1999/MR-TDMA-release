@@ -1,0 +1,3 @@
+MR-TDMA includes Java adaptations of numerical routines and the heat-equation
+setup from PaScaL_TDMA. The original copyright and license notice is retained
+in LICENSES/PaScaL-LICENSE.
